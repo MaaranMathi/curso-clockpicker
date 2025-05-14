@@ -1,6 +1,6 @@
 {
   "name": "curso-clockpicker",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "files": [
@@ -13,10 +13,17 @@
     "react": "^17.0.0 || ^18.0.0",
     "react-dom": "^17.0.0 || ^18.0.0"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "clock",
+    "react",
+    "time",
+    "picker",
+    "component",
+    "clockpicker"
+  ],
+  "author": "MathiMaaran",
   "license": "ISC",
-  "description": "",
+  "description": "A customizable React time picker component with analog UI",
   "dependencies": {
     "curso-clockpicker": "file:",
     "react": "^17.0.0 || ^18.0.0",
